@@ -82,8 +82,7 @@ $ns run
 ``` 
 # OUTPUT
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/1f2f22bc-d0e3-4a4b-8f10-cfb7596ec2e1" />
+<img width="1036" height="720" alt="image" src="https://github.com/user-attachments/assets/93efaaa2-20eb-4b13-bf1b-39edb9b5dbd2" />
 
-# RESULT
 
 Thus the performance of the network with Carrier Sense MultipleAccess/Collision Detection is verified using NS2 simulation
